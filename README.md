@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @David-O-Conno
-- 
+- 👋 Hi, I’m @David-O-Connor,
+-    I am Studying Software Development in ATU, Galway,
+-    and i am in Second Year.
+-    
 - 👀 I’m interested in Software Development, Game Development and Learning new topics
 - 
 - 🌱 I’m currently learning Java, C, C# and HTML
