@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @David-O-Connor,
 -    I am Studying Software Development in ATU, Galway,
--    I am in Second Year.
+-    I am currently in my third year.
 -    
-- 👀 I’m interested in Software Development, Game Development and Learning new topics
+- 👀 I’m interested in Software Development and Game Development.
 - 
-- 🌱 I’m currently learning Java, C, C# and HTML
+-   I am highly organised and self driven looking for a challenge.
+- 
+- 🌱 I’m currently learning languages such as Java, C, C#, Angular, Ionic, HTML and CSS.
 - 
 - 📫 How to reach me - Email: oconnordavid18@gmail.com
