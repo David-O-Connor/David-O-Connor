@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-O-Connor,
 -    I am Studying Software Development in ATU, Galway,
--    I am currently in my third year.
+-    I am currently in my final year.
 -    
 - 👀 I’m interested in Software Development and Game Development.
 - 
